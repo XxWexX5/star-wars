@@ -1,5 +1,7 @@
 #Teste de Frontend React [SOMENTE ALOCADO]
 
+##Deploy realizado no seguinte link: https://react-test-star-wars.herokuapp.com
+
 Olá Dev! Tudo bem?
 Nós estamos sempre em busca de profissionais interessantes e interessados, com boa capacidade de aprendizado, adaptação e principalmente bom senso!
 Este teste tem como objetivo avaliar e desafiar você. Não é obrigatório realizá-lo completamente, queremos apenas reconhecer seu esforço e potencial para aprender, se adaptar e tomar decisões.
@@ -32,7 +34,5 @@ Segue abaixo conteúdo de apoio para construção do teste, obrigado =)
 ![layout da página](https://i.ibb.co/qBMSWmn/layout.png)
 
 ![react think](https://i.ibb.co/QvPZMhJ/20190419-222347.jpg)
-
-##Deploy realizado no seguinte link: https://react-test-star-wars.herokuapp.com
 
 ##Obrigado pela oportunidade! =)
