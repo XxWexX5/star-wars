@@ -1,6 +1,8 @@
 # Star Wars
 By Wevison Ramalho.
 
+![layout da página](https://i.ibb.co/qBMSWmn/layout.png)
+
 #Teste de Frontend React [SOMENTE ALOCADO]
 
 ##Deploy realizado no seguinte link: https://react-test-star-wars.herokuapp.com
@@ -33,8 +35,6 @@ Se preferir, pode publicá-lo em algum servidor de sites estáticos (ex: Firebas
 
 #Notas - Wevison
 Segue abaixo conteúdo de apoio para construção do teste, obrigado =)
-
-![layout da página](https://i.ibb.co/qBMSWmn/layout.png)
 
 ![react think](https://i.ibb.co/QvPZMhJ/20190419-222347.jpg)
 
