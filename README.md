@@ -1,3 +1,6 @@
+# Star Wars
+By Wevison Ramalho.
+
 #Teste de Frontend React [SOMENTE ALOCADO]
 
 ##Deploy realizado no seguinte link: https://react-test-star-wars.herokuapp.com
